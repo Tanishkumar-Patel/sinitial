@@ -1,0 +1,11 @@
+POST http://localhost:8080/customer
+Content-Type: application/json
+
+{
+  "name": "Bernstien Consultancy LLC",
+  "category": "b2b",
+  "address": "738 Jessika Courts, East Carissafort, Oklahoma",
+  "opening_balance": 0
+}
+
+###
